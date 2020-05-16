@@ -1,4 +1,4 @@
-# The Titanic Dataset
+# Titanic: Machine Learning from Disaster
 ## Author: Md. Minul Islam Shovon
 ### Contest link: https://www.kaggle.com/c/titanic
 
